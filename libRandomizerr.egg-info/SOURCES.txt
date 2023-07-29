@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+libRandomizerr.egg-info/PKG-INFO
+libRandomizerr.egg-info/SOURCES.txt
+libRandomizerr.egg-info/dependency_links.txt
+libRandomizerr.egg-info/requires.txt
+libRandomizerr.egg-info/top_level.txt
